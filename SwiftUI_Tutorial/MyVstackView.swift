@@ -16,7 +16,7 @@ struct MyVstackView: View {
                 .padding()
             Text("3").font(.system(size:50))
                 .padding()
-        }.background(Color.red)
+        }.background(Color.red).cornerRadius(10)
     }
 }
 

@@ -12,6 +12,7 @@
 		E70EB9BE296437B2003EA34C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E70EB9BD296437B2003EA34C /* Assets.xcassets */; };
 		E70EB9C1296437B2003EA34C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E70EB9C0296437B2003EA34C /* Preview Assets.xcassets */; };
 		E70EB9C829643906003EA34C /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70EB9C729643906003EA34C /* MyVstackView.swift */; };
+		E7C1B3542966A032007ED3AB /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7C1B3532966A032007ED3AB /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E70EB9BD296437B2003EA34C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E70EB9C0296437B2003EA34C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E70EB9C729643906003EA34C /* MyVstackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVstackView.swift; sourceTree = "<group>"; };
+		E7C1B3532966A032007ED3AB /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				E70EB9BD296437B2003EA34C /* Assets.xcassets */,
 				E70EB9BF296437B2003EA34C /* Preview Content */,
 				E70EB9C729643906003EA34C /* MyVstackView.swift */,
+				E7C1B3532966A032007ED3AB /* MyTextView.swift */,
 			);
 			path = SwiftUI_Tutorial;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E70EB9BC296437AD003EA34C /* ContentView.swift in Sources */,
+				E7C1B3542966A032007ED3AB /* MyTextView.swift in Sources */,
 				E70EB9BA296437AD003EA34C /* SwiftUI_TutorialApp.swift in Sources */,
 				E70EB9C829643906003EA34C /* MyVstackView.swift in Sources */,
 			);
